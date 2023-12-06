@@ -1,2 +1,0 @@
-2023/10/26	21:12:17	9e3d4037-36b7-4dbc-a7dc-62969e5c2ede	Log event emitted!
-2023/10/26	21:12:46	a39b9267-a2d5-48ae-9121-adb3c6da9270	Log event emitted!
